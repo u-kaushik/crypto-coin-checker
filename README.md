@@ -6,7 +6,7 @@ A responsive React app styled in Sass, pulling data from 'coingecko's API via Ax
 
 https://crypto-coin-checker.netlify.app/
 
-#Things Practiced
+# Things Practiced
 
     Sass nesting
     Basic React & Sass folder structure & naming
@@ -14,7 +14,7 @@ https://crypto-coin-checker.netlify.app/
     React hooks (useState, useEffect)
     Use of Axios library for handling API data
     
-#Things to develop for next time
+# Things to develop for next time
 
     Continued use of React hooks within API data context
     Vanilla JS API usage to deepen overall understanding
